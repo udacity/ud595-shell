@@ -1,0 +1,9 @@
+Bagder: Badgers are short-legged omnivores in the family Mustelidae. Badgers have rather short, fat bodies, with short legs for digging. They have elongated weasel-like heads with small ears.
+Ferret: The ferret (Mustela putorius furo) is the domesticated form of the European polecat. Ferrets are sexually dimorphic predators with males being substantially larger than females.
+Marten: Martens are slender, agile animals, adapted to living in taigas, and are found in coniferous and northern deciduous forests across the northern hemisphere. They have bushy tails, and large paws with partially retractible claws.
+Mink: There are two living species referred to as "mink": the American Mink and the European Mink. The extinct Sea Mink is related to the American Mink, but was much larger.
+Otter: Otter is a common name for a carnivorous mammal in subfamily Lutrinae. Some otters are expert at opening shellfish, and others will feed on available small mammals or birds.
+Weasel: A weasel is a mammal belonging to the genus Mustela of the Mustelidae family. They have long, slender bodies, which enable them to follow their prey into burrows.
+Wolverine: The wolverine is the largest land-dwelling species of the family Mustelidae. The wolverine, a solitary animal, has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger than itself.
+
+Source: Wikipedia, The Free Encyclopedia

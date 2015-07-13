@@ -7,7 +7,7 @@ VAGRANTFILE_API_VERSION = "2"
 # Installation script
 $script = <<SCRIPT
 echo Provisioning system ...
-apt-get install cowsay
+apt-get install cowsay unzip
 rm /usr/share/cowsay/cows/*odo*
 SCRIPT
 
